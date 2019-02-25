@@ -1,0 +1,46 @@
+ h1{
+        font-family: Arial, Helvetica, sans-serif;
+        div {
+            line height: 3;
+        }
+        color: darkblue; 
+            font-size: 40px;
+    }
+
+
+
+      
+p{
+    color: #49b994; 
+    text-indent: 40px;
+}
+#text1 {
+    color: rosybrown;
+    /* 0 1 0 0 */
+}
+.text-big {
+    font-size: 20px;
+}
+.text2 {
+    font-weight: bold;
+}
+.text1 {
+    font-weight: bold;
+}
+body .list1 li {
+    color: rgb(226, 43, 104);
+     /* 0 0 1 2 */
+}
+/* ---------------- */
+
+h1 {
+    color: rgb(109, 18, 161);
+}
+#text1 {
+    color: rgb(245, 178, 9) !important;
+   /* 0 0 1 0 */
+}
+
+.s {
+    color: chartreuse;
+}

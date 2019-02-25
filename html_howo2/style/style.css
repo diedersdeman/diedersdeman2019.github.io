@@ -1,0 +1,80 @@
+body{
+    background-color: #f9f9f9; 
+   background-image: url(../img/pivo-3.jpg);
+   background-repeat: no-repeat ; 
+   background-size: cover ;
+   background-position: center top;
+   
+   /* background-position: 100% 0; */
+   background-attachment: fixed;
+   color: #2c2c2c;
+   font-family: Arial, 'Helvetica Neue',Helvetica, sans-serif; 
+   font-size: 13px;
+}
+p{
+    color: rgb(4, 8, 59); 
+    text-indent: 20px;/* Отступ первой строки в пикселах */
+}
+b{color: rgb(24, 37, 223); }
+    h1{
+        font-family: Arial, Helvetica, sans-serif;
+        div {
+            line height: 3;}
+        color: darkblue; 
+            font-size: 40px;}
+     h2{font-family: Arial, Helvetica, sans-serif;
+         line height: 4;
+         color: #d2691e; 
+            font-size: 40px; } 
+    h3{
+    line height:5;
+    color: #008b8b; 
+       font-size: 40px;
+}
+    .text-big {
+        font-size: 20px;
+    }
+    .text2 {
+        font-weight: bold;
+        
+}
+body .list1 li {
+    
+    font-size: 20px;
+    color: rgb(226, 19, 226);
+     /* 0 0 1 2 */
+}
+.text3 {
+    font-weight: normal;
+    color: rgb(65, 9, 117);}
+
+    .text4 {
+color: rgb(3, 22, 85);
+font-size: 20px;
+}
+
+.letter { 
+    color: maroon; /* Красный цвет символов */ 
+    font-size: 150%; /* Размер шрифта в процентах */ 
+    font-family: serif; /* Шрифт с засечками */ 
+    position: relative; /* Относительное позиционирование */ 
+    top: 1px; /* Сдвиг сверху */ }
+    .content-img {
+        border: 1px solid #c8c8c8;
+        text-align: center;
+        padding:  10px 0;
+        box-shadow: 0 0px 10px 1px #555); 
+        margin-bottom: 20px;
+        outline: 1px solid #333;
+        outline-offset: -5px;
+    
+    }  
+    figure {
+        background: #5f6a72; /* Цвет фона */
+        padding: 10px; /* Поля вокруг */
+        width: 2%px; /* Ширина */
+        height: 2%;
+        float: left; /* Блоки выстраиваются по горизонтали */
+        margin: 0 10px 10px 0; /* Отступы */
+        text-align: center; /* Выравнивание по центру */
+       }  
